@@ -11,7 +11,7 @@
 	<groupId>com.SpringRest</groupId>
 	<artifactId>SpringRest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>SpringRest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
